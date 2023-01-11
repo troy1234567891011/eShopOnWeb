@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-troy
   LOCATION: australiaeast
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: b3d4d273-e063-485f-bc07-cdcee2d1c0ca
-  WEBAPP-NAME: az400-webapp-troy
+  SUBSCRIPTION-ID: 1fbc8ab3-347a-4b61-8ca2-91eaae51ddb1
+  WEBAPP-NAME: az400-webapp-troy2
 
 
 jobs:
